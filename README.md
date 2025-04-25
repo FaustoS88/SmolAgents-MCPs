@@ -83,7 +83,7 @@ if __name__ == "__main__":
     main()
 ```
 
-## MCP used in the following files:
+## MCP used in the project:
 https://playbooks.com/mcp/ritvij14-crawl4ai
 https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 
