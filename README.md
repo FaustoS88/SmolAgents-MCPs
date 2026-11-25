@@ -1,3 +1,5 @@
+> Spring 2025 experiment, no longer maintained. Kept for reference.
+
 # SmolAgents + MCP servers
 
 This project demonstrates building an AI assistant using the SmolAgents library that can perform web searches and scrape/crawl websites by integrating with the Brave Search and the Crawl4ai Model Context Protocols (MCP) servers.
